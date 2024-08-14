@@ -52,7 +52,7 @@ const App = () => {
   // Return the JSX for the App component
   return (
     <div className="App">
-      <h1>Bot Battlr</h1>
+      <h1>Bot  Battlr</h1>
             {/* Inside 'App', we have another box called 'container'. */}
       <div className="container">
          {/* Inside the 'container', we have two special boxes: 'BotCollection' and 'MyBotArmy'. */}
